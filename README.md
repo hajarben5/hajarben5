@@ -1,12 +1,12 @@
 <h1>🌸 ✨  Welcome to Hajar’s Dev Garden! ✨ 🌸</h1>
 
 # 💫 About Me:
-               🌸 Who's This Code Explorer?<br>
-    🎓 Digital Development Student at OFPPT, passionate about creating impactful web applications.<br> 
-    💡 Obsessed with Web Development —where functionality meets creativity!<br> 
-    🔥 I build with React.js, Redux Toolkit, Laravel, PHP, JavaScript, MySQL & MongoDB.<br>
-    🌍 Rooted in Agadir, Morocco, with ambitions to grow and innovate globally.<br>
-    🤝 Always open to new collaborations & exciting challenges.<br>
+               🌸 Who's This Code Explorer?
+    🎓 Digital Development Student at OFPPT, passionate about creating impactful web applications. 
+    💡 Obsessed with Web Development —where functionality meets creativity!
+    🔥 I build with React.js, Redux Toolkit, Laravel, PHP, JavaScript, MySQL & MongoDB.
+    🌍 Rooted in Agadir, Morocco, with ambitions to grow and innovate globally.
+    🤝 Always open to new collaborations & exciting challenges.
     🚀 Currently exploring TypeScript, Nest.js & advanced backend technologies for deeper expertise!
 
 
